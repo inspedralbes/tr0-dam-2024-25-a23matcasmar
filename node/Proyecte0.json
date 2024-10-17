@@ -1,0 +1,114 @@
+{
+  "preguntes": [
+    {
+      "id": 0,
+      "pregunta": "Què significa aquesta senyal de trànsit?",
+      "resposta_correcta": "Stop",
+      "respostes_incorrectes": [
+        "Cediu el pas",
+        "Prohibit el pas",
+        "Perill"
+      ],
+      "imatge": "https://www.ara.cat/2019/03/02/societat/Torrelameu-canvia-Stop-Pareu_2189791119_60874068_1500x999.jpg"
+    },
+    {
+      "id": 1,
+      "pregunta": "Què indica aquesta línia discontínua a la carretera?",
+      "resposta_correcta": "Es pot avançar si les condicions ho permeten",
+      "respostes_incorrectes": [
+        "No es pot avançar",
+        "Carril d'acceleració",
+        "Zona d'estacionament"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTkLqoUX9jRPH2uqYsHQxCPFKJIouQph-Tw&s"
+    },
+    {
+      "id": 2,
+      "pregunta": "Quina és la taxa màxima d'alcohol en sang permesa per a conductors novells?",
+      "resposta_correcta": "0,3 g/l",
+      "respostes_incorrectes": [
+        "0,5 g/l",
+        "0,1 g/l",
+        "0,8 g/l"
+      ],
+      "imatge": "https://easygasgroup.com/wp-content/uploads/2023/02/alcoholimetro-1024x685.jpg"
+    },
+    {
+      "id": 3,
+      "pregunta": "Què significa aquest senyal lluminós?",
+      "resposta_correcta": "Semàfor en vermell",
+      "respostes_incorrectes": [
+        "Semàfor en verd",
+        "Semàfor en ambre",
+        "Semàfor apagat"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJd4kKJxJ7igbjwOS9NR_sGW7wnbuwJs-fg&s"
+    },
+    {
+      "id": 4,
+      "pregunta": "Quina és la distància de seguretat recomanada entre vehicles?",
+      "resposta_correcta": "2 segons",
+      "respostes_incorrectes": [
+        "1 metre",
+        "5 metres",
+        "10 segons"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzoI_FzvdXE6BLIKWQG_6ldmBTAHC-UqRTvw&s"
+    },
+    {
+      "id": 5,
+      "pregunta": "Què indica aquesta senyal?",
+      "resposta_correcta": "Rotonda",
+      "respostes_incorrectes": [
+        "Prohibit girar",
+        "Cediu el pas",
+        "Direcció obligatòria"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4nMUMFT6r2IwQixK_Nix03tF8ojhRKxyVA&s"
+    },
+    {
+      "id": 6,
+      "pregunta": "Quina és la validesa del permís de conduir B?",
+      "resposta_correcta": "10 anys",
+      "respostes_incorrectes": [
+        "5 anys",
+        "15 anys",
+        "Indefinida"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94WNyEV6hpfOkXiD1JbrWaB62a7OROmnmyQ&s"
+    },
+    {
+      "id": 7,
+      "pregunta": "Què significa aquesta senyal?",
+      "resposta_correcta": "Prohibit avançar",
+      "respostes_incorrectes": [
+        "Prohibit circular",
+        "Fi de prohibicions",
+        "Perill d'avançament"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJy8lL5SI947SXtlZBDSLIwOxXF2Z8ZrzMnA&s"
+    },
+    {
+      "id": 8,
+      "pregunta": "Quina és la sanció per conduir utilitzant el telèfon mòbil?",
+      "resposta_correcta": "6 punts i 200€",
+      "respostes_incorrectes": [
+        "3 punts i 100€",
+        "4 punts i 150€",
+        "2 punts i 50€"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1VeY1b2XnqkCbCbUnvm-TSju1yVQuR_dfQ&s"
+    },
+    {
+      "id": 9,
+      "pregunta": "Què indica aquesta senyal?",
+      "resposta_correcta": "Pas de vianants",
+      "respostes_incorrectes": [
+        "Zona escolar",
+        "Prohibit el pas de vianants",
+        "Perill de vianants"
+      ],
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCSLX2O_7QgnWTC_7z02HDzfhnGfPn0yzkQ&s"
+    }
+  ]
+}
